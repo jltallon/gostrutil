@@ -1,0 +1,2 @@
+# gostrutil
+Golang string utilities
